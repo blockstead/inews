@@ -1,2 +1,2 @@
 # inews
-Intelligent new reader terminal
+Intelligent and personalized news reader.
